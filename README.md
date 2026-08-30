@@ -67,4 +67,4 @@ build step.
 - Currently studying **Software Engineering**
 - ~6 years in **customer service across regulated health and finance sectors** — real domain knowledge and the habit of absorbing complex business rules fast
 - Spanish (native) · English (C1)
-- Certifications: AWS Academy (ML & Cloud Foundations) · IBM Data Science · Google Cybersecurity · Alura LATAM (Data Science & AI Agents)
+- Certifications: AWS Academy (ML & Cloud Foundations) · IBM Data Science · Google Cybersecurity
