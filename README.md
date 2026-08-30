@@ -50,6 +50,17 @@ build step.
 
 **Also worked with** — AWS · Databricks · Power BI · Streamlit · React
 
+## GitHub stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <img height="160" alt="Giancarlos Estevez's GitHub stats: commits, pull requests, issues and stars" src="./profile/stats-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/langs-dark.svg">
+  <img height="160" alt="Most used languages on Giancarlos Estevez's GitHub" src="./profile/langs-light.svg">
+</picture>
+
 ## Background
 
 - **MSc in Data Science & Business Analytics** — IMF Smart Education / UCAV, co-developed with Indra–Minsait
