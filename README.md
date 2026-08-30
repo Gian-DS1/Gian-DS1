@@ -68,9 +68,3 @@ build step.
 - ~6 years in **customer service across regulated health and finance sectors** — real domain knowledge and the habit of absorbing complex business rules fast
 - Spanish (native) · English (C1)
 - Certifications: AWS Academy (ML & Cloud Foundations) · IBM Data Science · Google Cybersecurity · Alura LATAM (Data Science & AI Agents)
-
-## How I build
-
-I use AI-assisted development and I'm open about it. What I keep for myself are the
-decisions — architecture, data integrity, trade-offs — and I don't ship anything I can't
-explain, defend or extend on my own.
