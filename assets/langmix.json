@@ -1,0 +1,30 @@
+{
+  "title": "Gian-DS1 \u00b7 public language mix",
+  "_comment": "GitHub public, non-fork, non-archived repositories as of 2026-10-01. Square-root scaling of byte count relative to the largest language; not proficiency or percentages.",
+  "axes": [
+    {
+      "label": "JavaScript",
+      "value": 100.0
+    },
+    {
+      "label": "Python",
+      "value": 43.4
+    },
+    {
+      "label": "TypeScript",
+      "value": 30.0
+    },
+    {
+      "label": "PLpgSQL",
+      "value": 16.3
+    },
+    {
+      "label": "PowerShell",
+      "value": 6.2
+    },
+    {
+      "label": "Swift",
+      "value": 5.2
+    }
+  ]
+}

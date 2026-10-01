@@ -1,0 +1,30 @@
+{
+  "title": "Featured project coverage",
+  "_comment": "Share of the four featured README projects in each category; not a proficiency score. Updated 2026-10-01.",
+  "axes": [
+    {
+      "label": "Data pipelines",
+      "value": 50.0
+    },
+    {
+      "label": "Machine learning",
+      "value": 25.0
+    },
+    {
+      "label": "Web apps",
+      "value": 75.0
+    },
+    {
+      "label": "Finance",
+      "value": 50.0
+    },
+    {
+      "label": "Orchestration",
+      "value": 25.0
+    },
+    {
+      "label": "Agent tooling",
+      "value": 25.0
+    }
+  ]
+}
