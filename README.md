@@ -10,11 +10,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Giancarlos+Est%C3%A9vez+%E2%80%94+Data+Engineer%3BPython+%C2%B7+SQL+%C2%B7+Airflow+%C2%B7+dbt%3BPoint-in-time+correct+data+pipelines%3BMSc+Data+Science+%26+Business+Analytics" alt="Giancarlos Estévez — Data Engineer · Python · SQL · Airflow · dbt · point-in-time correct pipelines">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=22A447&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Giancarlos+Est%C3%A9vez+%E2%80%94+Data+Engineer%3BPython+%C2%B7+SQL+%C2%B7+Airflow+%C2%B7+dbt%3BPoint-in-time+correct+data+pipelines%3BMSc+Data+Science+%26+Business+Analytics" alt="Giancarlos Estévez — Data Engineer · Python · SQL · Airflow · dbt · point-in-time correct pipelines">
 
 <br>
 
-<img src="https://img.shields.io/badge/status-open_to_remote_roles-f78ca0?style=flat-square&amp;logoColor=1a1a2e" alt="Open to remote roles">
+<img src="https://img.shields.io/badge/status-open_to_remote_roles-15803D?style=flat-square&amp;logoColor=06111F" alt="Open to remote roles">
 
 </div>
 
@@ -45,20 +45,20 @@ Software Engineering to pair the data side with solid engineering practice.
     <tr>
       <td width="50%" valign="top"><code>├─ ◈ data_foundations:</code><br><br>
         <img src="https://skillicons.dev/icons?i=python,postgres" alt="Python and PostgreSQL"><br><br>
-        <img src="https://img.shields.io/badge/pandas-c7a4f5?style=flat-square&amp;logo=pandas&amp;logoColor=1a1a2e" alt="pandas">
-        <img src="https://img.shields.io/badge/Parquet-76d8d2?style=flat-square&amp;logo=apacheparquet&amp;logoColor=1a1a2e" alt="Parquet"><br>
+        <img src="https://img.shields.io/badge/pandas-0369A1?style=flat-square&amp;logo=pandas&amp;logoColor=06111F" alt="pandas">
+        <img src="https://img.shields.io/badge/Parquet-15803D?style=flat-square&amp;logo=apacheparquet&amp;logoColor=06111F" alt="Parquet"><br>
         <sub><code>Python · SQL · pandas · Parquet</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ⇄ pipelines_warehouse:</code><br><br>
-        <img src="https://img.shields.io/badge/Airflow-f78ca0?style=for-the-badge&amp;logo=apacheairflow&amp;logoColor=1a1a2e" alt="Airflow"><br>
-        <img src="https://img.shields.io/badge/dbt-c7a4f5?style=for-the-badge&amp;logo=dbt&amp;logoColor=1a1a2e" alt="dbt"><br>
-        <img src="https://img.shields.io/badge/Snowflake-76d8d2?style=for-the-badge&amp;logo=snowflake&amp;logoColor=1a1a2e" alt="Snowflake"><br>
+        <img src="https://img.shields.io/badge/Airflow-15803D?style=for-the-badge&amp;logo=apacheairflow&amp;logoColor=06111F" alt="Airflow"><br>
+        <img src="https://img.shields.io/badge/dbt-0369A1?style=for-the-badge&amp;logo=dbt&amp;logoColor=06111F" alt="dbt"><br>
+        <img src="https://img.shields.io/badge/Snowflake-15803D?style=for-the-badge&amp;logo=snowflake&amp;logoColor=06111F" alt="Snowflake"><br>
         <sub><code>Airflow · dbt · Snowflake</code></sub>
       </td>
     </tr>
     <tr>
       <td valign="top"><code>├─ ✦ machine_learning:</code><br><br>
-        <img src="https://img.shields.io/badge/scikit--learn-f3d29b?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=1a1a2e" alt="scikit-learn"><br>
+        <img src="https://img.shields.io/badge/scikit--learn-9A6700?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=06111F" alt="scikit-learn"><br>
         <sub><code>scikit-learn · SHAP · FinBERT</code></sub>
       </td>
       <td valign="top"><code>├─ ▣ api_engineering:</code><br><br>
@@ -69,16 +69,16 @@ Software Engineering to pair the data side with solid engineering practice.
     <tr>
       <td valign="top"><code>├─ ⚙ delivery_quality:</code><br><br>
         <img src="https://skillicons.dev/icons?i=docker,githubactions" alt="Docker and GitHub Actions"><br><br>
-        <img src="https://img.shields.io/badge/pytest-76d8d2?style=flat-square&amp;logo=pytest&amp;logoColor=1a1a2e" alt="pytest">
-        <img src="https://img.shields.io/badge/Vitest-c7a4f5?style=flat-square&amp;logo=vitest&amp;logoColor=1a1a2e" alt="Vitest">
-        <img src="https://img.shields.io/badge/Playwright-f78ca0?style=flat-square" alt="Playwright"><br>
+        <img src="https://img.shields.io/badge/pytest-15803D?style=flat-square&amp;logo=pytest&amp;logoColor=06111F" alt="pytest">
+        <img src="https://img.shields.io/badge/Vitest-0369A1?style=flat-square&amp;logo=vitest&amp;logoColor=06111F" alt="Vitest">
+        <img src="https://img.shields.io/badge/Playwright-15803D?style=flat-square" alt="Playwright"><br>
         <sub><code>Docker · GitHub Actions · pytest · Vitest · Playwright</code></sub>
       </td>
       <td valign="top"><code>╰─ ⌁ also_worked_with:</code><br><br>
         <img src="https://skillicons.dev/icons?i=aws,react" alt="AWS and React"><br><br>
-        <img src="https://img.shields.io/badge/Databricks-f78ca0?style=flat-square&amp;logo=databricks&amp;logoColor=1a1a2e" alt="Databricks">
-        <img src="https://img.shields.io/badge/Power_BI-f3d29b?style=flat-square" alt="Power BI">
-        <img src="https://img.shields.io/badge/Streamlit-c7a4f5?style=flat-square&amp;logo=streamlit&amp;logoColor=1a1a2e" alt="Streamlit"><br>
+        <img src="https://img.shields.io/badge/Databricks-15803D?style=flat-square&amp;logo=databricks&amp;logoColor=06111F" alt="Databricks">
+        <img src="https://img.shields.io/badge/Power_BI-9A6700?style=flat-square" alt="Power BI">
+        <img src="https://img.shields.io/badge/Streamlit-0369A1?style=flat-square&amp;logo=streamlit&amp;logoColor=06111F" alt="Streamlit"><br>
         <sub><code>AWS · Databricks · Power BI · Streamlit · React</code></sub>
       </td>
     </tr>
@@ -179,10 +179,10 @@ build step.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gestevez-ds/">
-  <img src="https://img.shields.io/badge/LinkedIn-c7a4f5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=1a1a2e" alt="Connect with Giancarlos Estévez on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0369A1?style=for-the-badge&amp;logo=linkedin&amp;logoColor=06111F" alt="Connect with Giancarlos Estévez on LinkedIn">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Gian-DS1">
-  <img src="https://img.shields.io/badge/GitHub-f78ca0?style=for-the-badge&amp;logo=github&amp;logoColor=1a1a2e" alt="Giancarlos Estévez on GitHub">
+  <img src="https://img.shields.io/badge/GitHub-15803D?style=for-the-badge&amp;logo=github&amp;logoColor=06111F" alt="Giancarlos Estévez on GitHub">
 </a>
 
 <br><br>

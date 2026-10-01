@@ -58,28 +58,28 @@ YAML_ROWS = [
 
 THEMES = {
     "dark": {
-        "bg":      "#0A0F1E",
-        "panel":   "#0D1628",
-        "panel2":  "#101B30",
-        "line":    "#25344C",
-        "muted":   "#8291A8",
-        "text":    "#F0E6F0",
-        "portrait":"#F78CA0",   # city pop pink
-        "chrome":  "#C9B1D9",   # city pop lavender
-        "accent":  "#F78CA0",
-        "shadow":  "#02050B",
+        "bg":      "#06111F",
+        "panel":   "#0A192B",
+        "panel2":  "#10243A",
+        "line":    "#254766",
+        "muted":   "#8CA7BE",
+        "text":    "#E6F2FF",
+        "portrait":"#39FF14",   # Matrix neon green
+        "chrome":  "#38BDF8",   # electric blue
+        "accent":  "#F5B841",   # amber gold
+        "shadow":  "#02060C",
     },
     "light": {
-        "bg":      "#FDF0F3",
+        "bg":      "#EEF5FA",
         "panel":   "#FFFFFF",
-        "panel2":  "#FDE8EE",
-        "line":    "#F0C0CE",
-        "muted":   "#9B7B8A",
-        "text":    "#2D1A24",
-        "portrait":"#E05F80",
-        "chrome":  "#7B5EA7",
-        "accent":  "#E05F80",
-        "shadow":  "#D4A0B0",
+        "panel2":  "#E4EEF7",
+        "line":    "#A6C2D8",
+        "muted":   "#49657E",
+        "text":    "#10243A",
+        "portrait":"#15803D",
+        "chrome":  "#0369A1",
+        "accent":  "#B7791F",
+        "shadow":  "#7E9AB0",
     },
 }
 
@@ -355,9 +355,9 @@ def render_svg(
         f'<rect x="13" y="13" width="1154" height="584" rx="13" fill="{t["panel"]}" '
         f'stroke="{t["line"]}" filter="url(#shadow)"/>',
         f'<path d="M13 62H1167" stroke="{t["line"]}"/>',
-        '<circle cx="38" cy="38" r="6" fill="#FF5F57"/>'
-        '<circle cx="59" cy="38" r="6" fill="#FEBC2E"/>'
-        '<circle cx="80" cy="38" r="6" fill="#28C840"/>',
+        '<circle cx="38" cy="38" r="6" fill="#38BDF8"/>'
+        '<circle cx="59" cy="38" r="6" fill="#F5B841"/>'
+        '<circle cx="80" cy="38" r="6" fill="#39FF14"/>',
         f'<text x="590" y="43" text-anchor="middle" fill="{t["muted"]}" '
         'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" '
         'letter-spacing=".4">vim profile.yml</text>',

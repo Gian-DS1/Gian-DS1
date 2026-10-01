@@ -6,6 +6,11 @@ commit `2eaa44d`. Giancarlos's previous README supplies the profile facts, proje
 descriptions, toolbox and background. The portrait is his GitHub avatar captured
 on 2026-10-01; no other person's portrait or contact details are included.
 
+The current palette uses midnight blue backgrounds, Matrix neon green,
+electric blue and amber gold. The light variant uses blue-gray surfaces and
+darker green/blue accents for readable text. Banner colors live in `THEMES` in
+the banner generator; radar colors live in its renderer's `THEMES`.
+
 ## Regenerate the banner
 
 From the repository root, with Python 3.10 or later:
@@ -54,8 +59,10 @@ never commit its value.
 
 ## Existing statistics
 
-`.github/workflows/stats-cards.yml` continues to refresh the original local
-statistics cards daily. This customization does not change that workflow.
+`.github/workflows/stats-cards.yml` refreshes the local statistics cards daily
+with explicit blue/green text and icon colors. Its final styling step recolors
+the default purple CSS language marker to electric blue, keeping the palette
+consistent after each refresh.
 Typing text, technology icons and badges use the same external
 image services as the reference profile; the main banner, terminal and radars
 are local SVGs. Profile facts and project descriptions remain readable as text.

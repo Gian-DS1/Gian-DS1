@@ -22,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=00000000&theme=default
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=00000000&title_color=0369A1&text_color=10243A&icon_color=15803D
           path: profile/stats-light.svg
           fail_on_error: "true"
 
@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=00000000&theme=tokyonight
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=E6F2FF&icon_color=39FF14
           path: profile/stats-dark.svg
           fail_on_error: "true"
 
@@ -38,7 +38,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=00000000&theme=default
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=00000000&title_color=0369A1&text_color=10243A
           path: profile/langs-light.svg
           fail_on_error: "true"
 
@@ -46,9 +46,12 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=00000000&theme=tokyonight
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=E6F2FF
           path: profile/langs-dark.svg
           fail_on_error: "true"
+
+      - name: Match CSS language markers to the profile palette
+        run: sed -i 's/#663399/#00B3FF/g' profile/langs-*.svg
 
       - name: Commit cards
         run: |
